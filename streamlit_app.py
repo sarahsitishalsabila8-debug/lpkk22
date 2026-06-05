@@ -555,4 +555,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-        st.session_state.messages.append({"role": "assistant", "content": response})
